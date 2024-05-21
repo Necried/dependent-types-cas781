@@ -3,7 +3,7 @@
 This repository contains (partially implemented) code of the referenced paper.
 
 The iHaskell notebook is currently running on https://mybinder.org/v2/gh/Necried/dependent-types-cas781/HEAD
-Navigate to cas
+Navigate to dependent-types-cas781/HaskellCode.ipynb to open the notebook.
 
 
 ## Local execution
